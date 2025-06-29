@@ -1,1 +1,1 @@
-# Next Powered Website With Framer Motion & Tailwind
+Next Powered Website With Framer Motion & Tailwind
